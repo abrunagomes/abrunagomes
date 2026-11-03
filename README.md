@@ -1,8 +1,8 @@
 ## Hi! I am Bruna :)
 
-I'm a Software Developer passionate about Data Engineering, exploring various tools to expand my range of ideas and create more robust solutions with a broad technological vision to manage my pipelines and develop automations. Let's connect!
+I'm a Data Engineer, exploring tools and chasing experiences to connect people, communities and business in events and in the open world. Let's connect!
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bru-Spark" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg">
   <img align="center" alt="Bru-Numpy" height="30" width="40" src="https://github.com/kimjiwook0129/devicon/blob/85137b8ede29204d015a30cc995a481eefada4d4/icons/numpy/numpy-original.svg">
@@ -15,7 +15,7 @@ I'm a Software Developer passionate about Data Engineering, exploring various to
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-</div>
+</div> -->
 
 ##
 
